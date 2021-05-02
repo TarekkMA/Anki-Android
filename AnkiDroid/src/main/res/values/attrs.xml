@@ -124,4 +124,9 @@
     <attr name="customTabNavBarColor" format="color"/>
     <!-- Popup menus' background color -->
     <attr name="popupBackgroundColor" format="reference"/>
+
+
+    <declare-styleable name="CheckBoxTriStates">
+        <attr name="cycle_back_to_indeterminate" format="boolean" />
+    </declare-styleable>
 </resources>
